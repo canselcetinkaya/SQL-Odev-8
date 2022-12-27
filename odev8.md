@@ -1,6 +1,6 @@
 # test veritabanınızda employee isimli sütun bilgileri id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100) olan bir tablo oluşturalım.
 
---  create table employee (
+'''create table employee (
 
 id int,
 
@@ -9,7 +9,7 @@ name varchar(50),
 birthday date,
 
 email varchar(100)         )
-
+'''
 
 # Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
 
